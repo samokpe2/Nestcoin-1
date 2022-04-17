@@ -84,10 +84,6 @@ const Movies = () => {
   return (
     <div>
       <Header>
-      <AppName>
-        <MovieImage src="./movie-icon.svg" />
-        <Logo />
-      </AppName>
       <SearchBox>
         <SearchIcon src="./search-icon.svg" />
         <SearchInput
